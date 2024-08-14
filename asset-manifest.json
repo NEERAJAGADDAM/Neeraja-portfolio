@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Neeraja-portfolio/static/css/main.66b362c6.css",
+    "main.js": "/Neeraja-portfolio/static/js/main.df4c4920.js",
+    "index.html": "/Neeraja-portfolio/index.html",
+    "main.66b362c6.css.map": "/Neeraja-portfolio/static/css/main.66b362c6.css.map",
+    "main.df4c4920.js.map": "/Neeraja-portfolio/static/js/main.df4c4920.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66b362c6.css",
+    "static/js/main.df4c4920.js"
+  ]
+}
